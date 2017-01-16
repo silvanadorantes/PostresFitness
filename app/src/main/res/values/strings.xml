@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Postres Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_add">Añadir</string>
+    <string name="action_favorite">Marcar Favorito</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="description_detail">
+        ¡Estas galletas de chocolate son una alucinación! ¡MUY adictivas!
+        Son perfectas para uno de esos episodios que sufrimos las mujeres en donde el chocolate más que un
+        “antojo” es una “NECESIDAD”. La vida nuestra y de cualquiera depende de si consumimos o no nuestra
+        dosis de chocolate jajaja. Haré lo posible para darles la receta tal cual, porque fue una receta que
+        inventé en el momento. ¡Vamos pues!
+    </string>
+
+    <string name="ingredientes">
+        ¡Estas galletas de chocolate son una alucinación! ¡MUY adictivas!
+        Son perfectas para uno de esos episodios que sufrimos las mujeres en donde el chocolate más que un
+        “antojo” es una “NECESIDAD”. La vida nuestra y de cualquiera depende de si consumimos o no nuestra
+        dosis de chocolate jajaja. Haré lo posible para darles la receta tal cual, porque fue una receta que
+        inventé en el momento. ¡Vamos pues!
+
+    </string>
+
+    <string name="preparacion">
+        Si estás en régimen estricto de perdida de grasa come estas galletas en tu comida trampa¡
+        como una trampita limpia! Si estás buscando mantenerte, échale pichón y ¡cómelas YA!
+    </string>
+
+
+</resources>
